@@ -1,0 +1,8 @@
+pyrofork 
+tgcrypto 
+cloudscraper
+pillow 
+bs4
+fpdf2
+gunicorn 
+flask
